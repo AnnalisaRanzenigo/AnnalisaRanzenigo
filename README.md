@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **developing my skills in Data Science**
 
-- 🌱 In this page you can find **my projects in Python and SQL**
+- 🌱 In this page you can find **my projects with Python and SQL**
 
 - 📫 How to reach me **annalisaranzenigo@gmail.com**
 
